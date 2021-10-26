@@ -1,0 +1,30 @@
+body {
+    background: #f1f1f1;
+}
+
+.book-now {
+    width: 100%;
+}
+
+.explore-page-heading {
+    font-weight: 900 !important;
+}
+
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.my-nav .active {
+    cursor: auto;
+}
+
+.item-desrcription {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 16pt !important;
+}

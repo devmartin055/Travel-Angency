@@ -1,0 +1,56 @@
+.brand {
+    width: 200px;
+}
+
+.bg-skyblue {
+    background: #C2EAF2;
+}
+
+.package-img {
+    max-height: 100px;
+    max-width: 100px;
+}
+
+#packageTable tbody tr td,
+#packageTable thead tr th {
+    vertical-align: middle;
+}
+
+
+/* Chrome, Safari, Edge, Opera */
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+
+/* Firefox */
+
+input[type=number] {
+    -moz-appearance: textfield;
+}
+
+table.remove-v-align tr td {
+    vertical-align: text-top !important;
+}
+
+.my-collapse {
+    height: 4.6rem;
+    overflow: hidden;
+}
+
+.my-thumbnail {
+    max-width: 100px;
+    max-height: 100px;
+}
+
+table.td-center tr td {
+    vertical-align: middle;
+}
+
+table.my-underline tr td a:hover {
+    color: #17A2B8;
+    text-decoration: none;
+}
